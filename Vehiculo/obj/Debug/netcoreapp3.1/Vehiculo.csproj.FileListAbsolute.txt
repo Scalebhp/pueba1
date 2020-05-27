@@ -1,0 +1,8 @@
+C:\Users\jeanr\source\repos\Vehiculo\obj\Debug\netcoreapp3.1\Vehiculo.csprojAssemblyReference.cache
+C:\Users\jeanr\source\repos\Vehiculo\obj\Debug\netcoreapp3.1\Vehiculo.csproj.CoreCompileInputs.cache
+C:\Users\jeanr\source\repos\Vehiculo\obj\Debug\netcoreapp3.1\Vehiculo.AssemblyInfoInputs.cache
+C:\Users\jeanr\source\repos\Vehiculo\obj\Debug\netcoreapp3.1\Vehiculo.AssemblyInfo.cs
+C:\Users\jeanr\OneDrive\Documentos\Visual Studio 2019\Vehiculo\obj\Debug\netcoreapp3.1\Vehiculo.csprojAssemblyReference.cache
+C:\Users\jeanr\OneDrive\Documentos\Visual Studio 2019\Vehiculo\obj\Debug\netcoreapp3.1\Vehiculo.csproj.CoreCompileInputs.cache
+C:\Users\jeanr\OneDrive\Documentos\Visual Studio 2019\Vehiculo\obj\Debug\netcoreapp3.1\Vehiculo.AssemblyInfoInputs.cache
+C:\Users\jeanr\OneDrive\Documentos\Visual Studio 2019\Vehiculo\obj\Debug\netcoreapp3.1\Vehiculo.AssemblyInfo.cs
